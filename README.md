@@ -30,3 +30,5 @@ Compression Rate: Approximately 3.127% of the original size, indicating signific
 Conclusion:
 The K-means quantization effectively reduced the image size by lowering color depth. This approach is beneficial for applications needing reduced storage with acceptable image quality loss. The trade-off between compression and quality is essential in practical uses.
 
+LINK: https://drive.google.com/file/d/1f9hzMtlSIi3sHLy3sqNwqdv7Vpu6ZV57/view?usp=sharing
+
